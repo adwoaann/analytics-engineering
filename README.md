@@ -48,10 +48,10 @@ Connect Power BI to Snowflake:
 4. Create visualizations like line charts for temperature trends, pie charts for weather conditions, etc.
 
 # Data Flow
-Extract: Fetch data from OpenWeatherMap API using Python.
-Transform: Clean and transform data using Pandas.
-Load: Insert data into Snowflake.
-Automate: Use Apache Airflow to automate the ETL process.
-Visualize: Create dashboards in Power BI.
+1. Extract: Fetch data from OpenWeatherMap API using Python.
+2. Transform: Clean and transform data using Pandas.
+3. Load: Insert data into Snowflake.
+4. Automate: Use Apache Airflow to automate the ETL process.
+5. Visualize: Create dashboards in Power BI.
 
 
